@@ -1,5 +1,7 @@
 # Class exercises
 
+These exercises are meant for a flipped classroom, where the students prepare in advance and the class time is dedicated to exercises.
+
 The first two exercises are a priority, the third is nice to do, the fourth and fifth can be skipped. The fifth can be done by the students as homework.
 
 
