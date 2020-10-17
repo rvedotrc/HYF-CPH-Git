@@ -14,7 +14,7 @@ We will use the `hyf-homework` repo and the branch `master`.
 
 1. clone your own `hyf-homework` repo into your computer (this is to get everyone on the same page, otherwise it can be a mess);
 2. create a folder named `class_playground` under `hyf-homework/Git/week1`;
-3· create the following files inside the `class_playground` folder: `apples_file.txt`, `bananas_file.txt`, `oranges_file.txt`;
+3. create the following files inside the `class_playground` folder: `apples_file.txt`, `bananas_file.txt`, `oranges_file.txt`;
 4. add some text to each of the files;
 5. add and commit the `apples_file.txt`;
 6. add and commit both the `oranges_file.txt` and the `bananas_file.txt`;
