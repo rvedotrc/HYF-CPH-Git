@@ -1,5 +1,9 @@
 # Lesson plan 
 
+This lesson plan is intended for the "old style" presential classes. If using the flipped classroom method, the contents would be about the same, but the class itself should focus on exercises. Suggested exercises for the flipped classroom can be found [here](./class_exercises.md).
+
+In any of the cases, the goal of the class is for the students to be able to use git/github to collaborate in the final project.
+
 1. Why branches?
 
 2. The 3 types of branches:
