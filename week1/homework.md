@@ -1,16 +1,24 @@
 # Homework
 
-In this exercise you will get some practice submitting your homework by pushing it to Github and then creating a pull request. You will use the `hyf-homework` repository on your computer to do the exercise. Here are the instructions:
+In this exercise you will get some practice submitting your homework by pushing it to Github and then creating a pull request. 
+You will be using this workflow every week to submit your homeworks, so it's important that you get comfortable with it.
+You will also practice adding/commiting files one by one.
+
+You will use the `hyf-homework` repository on your computer to do the exercise. Here are the instructions:
 
 1. Go to your `hyf-homework` repo on your computer
 2. Go to branch `master`
 3. Create a branch for your homework, named `git/week1`, and move to that branch
-4. Inside the folder `hyf-homework/git/week1` create a new file named `my_favorite_food.txt`, inside the file write your favorite food recipe, and commit your changes (you can just find a random recipe on google and paste it in the file ;) ).
-5. Again inside the folder `hyf-homework/git/week1` add a new file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food, and commit your changes.
-6. Inside the folder `hyf-homework/git/week1` create a third file named `countries.txt`, where you list three countries that you have visited (this doesn't need to be true, you can just write the names of three random countries), and commit your changes.
-7. Push your changes into your `hyf-homework` repository on github.
-8. Go to Github and create a pull request from the branch `git/week1` to `master`
-9. Copy the link, post it on slack and tag your mentors, we will then check your homework and ask you to do a few more tasks :)
+4. Inside the folder `hyf-homework/git/week1` create 3 new files:
+   - a file named `my_favorite_food.txt`, inside the file write your favorite food recipe (you can just find a random recipe on google and paste it in the file ;) 
+   - a file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food
+   - a file named `countries.txt`, where you list three countries that you have visited (this doesn't need to be true, you can just write the names of three random countries)
+5. Add and commit the file `my_favorite_food.txt`;
+6. Add and commit the file `my_second_favorite_food.txt`;
+7. Add and commit the file `countries.txt`;
+8. Push your changes into your `hyf-homework` repository on Github.
+9. Go to Github and create a pull request (PR) from the branch `git/week1` to `master`
+10. Copy the link, post it on slack and tag your mentors, we will then check your homework and ask you to do a few more tasks :)
 
 
 Commands that you will need: 

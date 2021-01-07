@@ -1,10 +1,8 @@
-# Preparation
+# Preparation for flipped classroom
 
-This is the preparation for the "old style" presential classes (vs. flipped classroom).
+This is the preparation for the flipped classroom (vs. "old style" presential classes).
 
-Readings:
- - What is version control: https://www.atlassian.com/git/tutorials/what-is-version-control (5 min)
- - What is git: https://www.atlassian.com/git/tutorials/what-is-git (6 min)
+## Setting up Git/Github
 
 Github:
  - if you haven't created an account on [github.com](www.github.com) yet, please create it now :)
@@ -39,4 +37,26 @@ Git:
  Optionally, if you are using Windows and want to use git bash on VSCode, check the instructions in the first answer [here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal) on how to do that. If you are using linux or macOS, it works right out of the box.
 
 
-We'll be roughly following the materials here, in case you want to take a look:  https://github.com/HackYourFuture-CPH/Git/blob/master/week1/review.md
+## Class videos
+
+Since this is a flipped classroom, where you prepare the class during the week and then the Sunday 
+session is focused on exercises and answering your questions, it is ***extremely important*** that you watch the following videos:
+
+ - [introduction to version control and git](https://drive.google.com/file/d/1lHO7AjtuADB7taS7HrukKL0PLhKUjJUj/view?usp=sharing);
+ - [introduction to the command line](https://drive.google.com/file/d/1DT6jkB-VFemyKZYhpAzXtNKC4Fm2soNy/view?usp=sharing) ;
+ - [git basics, part 1](https://drive.google.com/file/d/1ZVExfsf1W21aprmVVk8swQy9lk0iEw06/view?usp=sharing);
+ - [git basics, part 2](https://drive.google.com/file/d/1arPYP_lh91xoDn1SYTKnq1PuejI8hWNQ/view?usp=sharing);
+ - [git branches](https://drive.google.com/file/d/1znEHlVDwBXFZZnZdLOyd3zMEF7N9kagw/view?usp=sharing);
+ - [git branches extra](https://drive.google.com/file/d/11m_is5nD3Wb5R1zr6cGlAfhZWDILqXNp/view?usp=sharing);
+ - [how to solve merge conflicts](https://drive.google.com/file/d/1-7Evus2Fh7KDRlmD48eY9ZTQ9FVT0D6_/view?usp=sharing).
+
+
+## Extra readings
+
+And if you have a some extra time, you can read the following articles:
+ - What is version control: https://www.atlassian.com/git/tutorials/what-is-version-control (5 min)
+ - What is git: https://www.atlassian.com/git/tutorials/what-is-git (6 min)
+ - Git and Github in Plain English: https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english
+
+
+ We'll be roughly following the materials here, in case you want to take a look:  https://github.com/HackYourFuture-CPH/Git/blob/master/week1/review.md
