@@ -1,5 +1,7 @@
 # Preparation
 
+This is the preparation for the "old style" presential classes (vs. flipped classroom).
+
 Readings:
  - What is version control: https://www.atlassian.com/git/tutorials/what-is-version-control (5 min)
  - What is git: https://www.atlassian.com/git/tutorials/what-is-git (6 min)
