@@ -1,10 +1,11 @@
 # Lesson plan
 
 This lesson plan is meant for a traditional class (vs. flipped classroom) where the mentor teaches the contents with breaks for exercises.
-The material to be tought is the same as in the flipped classroom though.
+The material to be taught is the same as in the flipped classroom though.
+The exercises suggested for the flipped classroom can be found [here](./class_exercises.md).
 
  1. What is Git
-    - git is a version control software, widely used by software developers (and not only)
+    - git is a version control softwssssare, widely used by software developers (and not only)
 
  2. What is version control
     - show example with google docs
