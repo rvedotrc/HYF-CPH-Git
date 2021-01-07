@@ -5,7 +5,7 @@ The material to be taught is the same as in the flipped classroom though.
 The exercises suggested for the flipped classroom can be found [here](./class_exercises.md).
 
  1. What is Git
-    - git is a version control softwssssare, widely used by software developers (and not only)
+    - git is a version control software, widely used by software developers (and not only)
 
  2. What is version control
     - show example with google docs
