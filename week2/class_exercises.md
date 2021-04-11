@@ -21,7 +21,7 @@ The workflow is the same that the students will use during the final project.
  9. push `feature/fruits` to github
  10. create pull request to merge `feature/fruits` into `master`
 
-**Note**: the students will get a merge conflict on step 9.
+**Note**: the students will get a merge conflict on step 8.
 
 
 ### Exercise 2:
