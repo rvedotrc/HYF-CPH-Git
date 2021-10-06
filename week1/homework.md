@@ -22,17 +22,17 @@ You will use the `hyf-homework` repository on your computer to do the exercise. 
 
 
 Commands that you will need: 
- - `git branch <branch_name>` - to create a new branch named `<branch_name>`
- - `git checkout <branch_name>` - to move to a branch named `<branch_name>`
+ - `git branch <branch-name>` - to create a new branch named `<branch-name>`
+ - `git checkout <branch-name>` - to move to a branch named `<branch-name>`
  - `git add <file_name>` - tell git to start tracking a file and to update what will be commited
  - `git commit -m "commit_message"` - commit (save) your changes
- - `git push origin <branch_name>` - push (upload) your changes in your current branch to your github repository into the branch named `<branch_name>`.
+ - `git push origin <branch-name>` - push (upload) your changes in your current branch to your github repository into the branch named `<branch-name>`.
  
  
  ***Note***
-  For the sake of consistency (and to avoid mistakes), make sure that when you push you do it to a branch with the same name as the branch where you are, e.g. if you are on a branch named `my_homework` then push to a branch named `my_homework` by typing `git push origin my_homework`.
+  For the sake of consistency (and to avoid mistakes), make sure that when you push you do it to a branch with the same name as the branch where you are, e.g. if you are on a branch named `my-homework` then push to a branch named `my-homework` by typing `git push origin my-homework`.
   
-  When pulling, if you want to pull from a branch named, for instance `git_homework`, make sure that you are in a branch with the same name (`git_homework`) on your computer as well, and only then do `git pull origin <branch_name>`.
+  When pulling, if you want to pull from a branch named, for instance `git-homework`, make sure that you are in a branch with the same name (`git-homework`) on your computer as well, and only then do `git pull origin <branch-name>`.
 
 
 Other useful git commands:
@@ -40,7 +40,7 @@ Other useful git commands:
  - `git branch` - this is your second best friend, it tells you in which branch you are (you can also see where you are when you do `git status`)
  - `git log`
  - `git log --oneline`
- - `git pull origin <branch_name>` - pull (download) your changes from your github repository in the branch named `<branch_name>`, into your current local branch. 
+ - `git pull origin <branch-name>` - pull (download) your changes from your github repository in the branch named `<branch-name>`, into your current local branch. 
 
 Command line commands that might be useful:
  - `pwd`- print working directory, to know where you are 

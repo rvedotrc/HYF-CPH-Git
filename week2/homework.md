@@ -5,31 +5,31 @@
 
 In this exercise you will get some practice creating branches, merging, pushing/pulling to Github, and creating a pull request. Here are the instructions:
 
-1. In your computer, in your `hyf-homework` repository, start by creating a branch for your homework, named `git/week2`, and move to that branch
+1. In your computer, in your `hyf-homework` repository, start by creating a branch for your homework, named `git-week2`, and move to that branch
 2. Inside the folder `hyf-homework/git/week2` create a new file named `veggies.txt`, inside the file write the name of 5 veggies, one per line. Commit your changes.
-3. Push the branch `git/week2` to github.
-4. While on `git/week2`, create a branch named `feature/veggies` and move to that branch.
+3. Push the branch `git-week2` to github.
+4. While on `git-week2`, create a branch named `feature/veggies` and move to that branch.
 5. On the file `veggies.txt`, modify the name of the third veggie, and add two more veggies (one per line) at the end. Commit your changes.
-6. On Github, go to branch `git/week2` and modify the name of the third veggie in the file  `veggies.txt`. Commit your changes.
-7. Before pushing the branch `feature/veggies` to github, update it with the latest changes on branch `git/week2` (hint: pull that branch from github and merge it with `feature/veggies`).
-8. Now that `feature/veggies` has been updated, push it to github and create a pull request to `git/week2`.
+6. On Github, go to branch `git-week2` and modify the name of the third veggie in the file  `veggies.txt`. Commit your changes.
+7. Before pushing the branch `feature/veggies` to github, update it with the latest changes on branch `git-week2` (hint: pull that branch from github and merge it with `feature/veggies`).
+8. Now that `feature/veggies` has been updated, push it to github and create a pull request to `git-week2`.
 9. Wait for feedback, there will be one more task before merging :)
 
 
 Commands that you will need for this part: 
  - `git add <file_name>` - tell git to start tracking a file and to update what will be commited
  - `git commit -m "commit_message"` - commit (save) your changes
- - `git branch <branch_name>` - to create a new branch named `<branch_name>`
- - `git checkout <branch_name>` - to move to a branch named `<branch_name>`
- - `git merge <branch_name>` - to merge the branch named `<branch_name>` with the branch where you are.
- - `git push origin <branch_name>` - push (upload) your changes in your current branch to your github repository into the branch named `<branch_name>`.
- - `git pull origin <branch_name>` - pull (download) your changes from your github repository in the branch named `<branch_name>`, into your current local branch. 
+ - `git branch <branch-name>` - to create a new branch named `<branch-name>`
+ - `git checkout <branch-name>` - to move to a branch named `<branch-name>`
+ - `git merge <branch-name>` - to merge the branch named `<branch-name>` with the branch where you are.
+ - `git push origin <branch-name>` - push (upload) your changes in your current branch to your github repository into the branch named `<branch-name>`.
+ - `git pull origin <branch-name>` - pull (download) your changes from your github repository in the branch named `<branch-name>`, into your current local branch. 
 
 
  ***Note***
-  For the sake of consistency (and to avoid mistakes), make sure that when you push you do it to a branch with the same name as the branch where you are, e.g. if you are on a branch named `my_homework` then push to a branch named `my_homework` by typing `git push origin my_homework`.
+  For the sake of consistency (and to avoid mistakes), make sure that when you push you do it to a branch with the same name as the branch where you are, e.g. if you are on a branch named `my-homework` then push to a branch named `my-homework` by typing `git push origin my-homework`.
   
-  When pulling, if you want to pull from a branch named, for instance `git_homework`, make sure that you are in a branch with the same name (`git_homework`) on your computer as well, and only then do `git pull origin <branch_name>`.
+  When pulling, if you want to pull from a branch named, for instance `git-homework`, make sure that you are in a branch with the same name (`git-homework`) on your computer as well, and only then do `git pull origin <branch-name>`.
 
 
 ## Part 2
@@ -63,7 +63,7 @@ Commands that you'll need for this part:
   - `git log` - see your commit history with all the details
   - `git log --oneline` - see your commit history in a single line.
   - `git cherry-pick <commit_hash>` - will copy the commit with hash `<commit_hash`> from another branch to your current branch. To find the hash for the commit you want use `git log` on the branch where the commit exists.
-  - `git checkout <commit_hash>` - you use this to go back to a specific commit and take a look at your code back then, but **do NOT ever** change your code at this point, since you are in a detached HEAD state when you go back to a specific commit. Remember, you wouldn't walk around if your head wasn't glued to your neck :). To go back to your latest commit you just do `git checkout <branch_name>`, where `<branch_name>` is the name of the branch where you are.
+  - `git checkout <commit_hash>` - you use this to go back to a specific commit and take a look at your code back then, but **do NOT ever** change your code at this point, since you are in a detached HEAD state when you go back to a specific commit. Remember, you wouldn't walk around if your head wasn't glued to your neck :). To go back to your latest commit you just do `git checkout <branch-name>`, where `<branch-name>` is the name of the branch where you are.
   - `git revert <commit_hash>` - will revert whatever was done in a specific commit with hash `<commit_hash>`. Be careful with possible conflicts. If you get conflicts and you want to abort the revert, you can do it with `git revert --abort`.
   - `git reset --soft <commit_hash>` - will remove all commits until the commit with hash `<commit_hash>`, but the file changes will stay in the staging/index area.
   - `git reset --mixed <commit_hash>` - will remove all commits until the commit with hash `<commit_hash>`, but the file changes will stay in your filesystem.
