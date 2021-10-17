@@ -60,8 +60,8 @@ We will use the `hyf-homework` repo.
 4. add two colors to the file `colors.txt`, one per line;
 5. add and commit the changes in the `colors.txt` file;
 6. push the branch `git_exercise_3` to github.
-7. on github, go to the branch `git_exercise_3` and add a color in the first line of the file `colors.txt`, commit your changes;
-8. on your computer, add a color in the last line of the file `colors.txt`, add and commit your changes;
+7. on github, go to the branch `git_exercise_3` and add a color in the last line of the file `colors.txt`, commit your changes;
+8. on your computer, add a color in the first line of the file `colors.txt`, add and commit your changes;
 9. push the branch `git_exercise_3` to github.
 
 
