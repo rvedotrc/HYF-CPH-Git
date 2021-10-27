@@ -1,4 +1,6 @@
-Here you can find all the materials used to teach the first Git class to class12:
+# Week 1
+
+Here you can find all the materials used to teach the first Git class:
  
  - preparation.md - contains what the students should do before coming to class;
  - lesson_plan.md - contains the teaching plan made by the mentor who taught the class;
