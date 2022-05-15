@@ -1,5 +1,24 @@
 # Homework
 
+
+## Exercise 1
+
+In this exercise we will create a `.gitignore` file and will add it to the branch `main`.
+
+But first, what is the `.gitignore` file? It is a special file where you write the names of files or folders that you want git to ignore. This will be super useful once you get to the nodejs module, so we will create the `.gitignore` file right now. Also, if you are using a Mac you might see a file named `.DS_Store` when you do `git status`, if you don't want to see it, just write `.DS_Store` in the first line of the `.gitignore` file.
+
+Here are the instructions to do this:
+
+1. Open your `hyf-homework` folder on VSCode
+2. Go to the branch `main` (`git checkout main`)
+3. Create a new file named `.gitignore` in the `hyf-homework` folder. If you are using Mac you can write `.DS_Store` on the first line of the file.
+4. Add and commit the `.gitignore` file
+5. Push your changes to your `hyf-homework` repository on Github
+
+
+
+## Exercise 2
+
 In this exercise you will get some practice submitting your homework by pushing it to Github and then creating a pull request. 
 You will be using this workflow every week to submit your homeworks, so it's important that you get comfortable with it.
 You will also practice adding/commiting files one by one.
