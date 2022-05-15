@@ -16,7 +16,7 @@ A couple of videos recommended by class10 student Lilla Kőrösi:
 
 
 Video about submitting your homework using Pull Requests:
- - [https://www.youtube.com/watch?v=XYlgh9hSWtw](https://www.youtube.com/watch?v=XYlgh9hSWtw)
+ - [https://www.youtube.com/watch?v=JcT4wmK1VcA](https://www.youtube.com/watch?v=JcT4wmK1VcA)
 
 
 And finally, atlassian (the company that makes BitBucket) has really nice tutorials as well. Check them out [here](https://www.atlassian.com/git/tutorials/what-is-version-control) and explore the stuff in the side bar :).
