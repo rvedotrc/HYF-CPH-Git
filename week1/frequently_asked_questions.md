@@ -6,7 +6,7 @@
 Check [this](https://drive.google.com/open?id=1ON-GRcmkQOfIgXVbVstGIHkc9S-0Ul9m) video.
 
 Or, step by step:
- 1. Go to the master branch (`git checkout master`)
+ 1. Go to the master branch (`git checkout main`)
  2. Create your homework branch (`git branch branch_name`)
  3. Go to your homework branch (`git checkout branch_name`)
  4. Do your homework, commit your changes.
