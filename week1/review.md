@@ -135,7 +135,7 @@ git checkout <branch_name>
 ```
 
 Always check in which branch you are before creating a new one. 
-For instance, for your homework you should always be in the master branch when you create your homework branch.
+For instance, for your homework you should always be in the main branch when you create your homework branch.
 
 
 # 4. GitHub:
@@ -196,7 +196,7 @@ error: failed to push some refs to 'git@github.com:myrepo.git'
 ```
 Solution:
 ```
-git pull origin master
+git pull origin main
 ```
 
 or
@@ -245,17 +245,17 @@ Pull requests can be used in conjunction with various workflows:
 The workflow you use in your homework is pretty much the Feature-branch workflow, where the central repository is your `hyf-homework` repository, and the feature branch is your homework branch. Also, instead of BitBucket you use Github.
 
 There are a few other differences, for instance:
-- in the section "Start with the master branch", instead of doing:
+- in the section "Start with the main branch", instead of doing:
     ```
-    git checkout master
+    git checkout main
     git fetch origin 
-    git reset --hard origin/master
+    git reset --hard origin/main
     ```
-  to update your master branch, you should just do:
+  to update your main branch, you should just do:
 
     ```
-    git checkout master
-    git pull origin master
+    git checkout main
+    git pull origin main
     ```
 - once the pull request is accepted you just merge it directly on github, no need to use the command line :)
 
