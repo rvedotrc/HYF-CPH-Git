@@ -11,9 +11,10 @@ Here are the instructions to do this:
 
 1. Open your `hyf-homework` folder on VSCode
 2. Go to the branch `main` (`git checkout main`)
-3. Create a new file named `.gitignore` in the `hyf-homework` folder. If you are using Mac you can write `.DS_Store` on the first line of the file.
-4. Add and commit the `.gitignore` file
-5. Push your changes to your `hyf-homework` repository on Github
+3. Get all commits that are on `main` on github into `main` on your local repo (`git pull origin main`)
+4. Create a new file named `.gitignore` in the `hyf-homework` folder. If you are using Mac you can write `.DS_Store` on the first line of the file.
+5. Add and commit the `.gitignore` file
+6. Push your changes to your `hyf-homework` repository on Github
 
 
 
