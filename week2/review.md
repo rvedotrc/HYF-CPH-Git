@@ -11,6 +11,7 @@ This is a review for HackYourFuture Git advanced. It has the following sections:
    - git reset
    - git revert
    - git cherry-pick
+   - git rebase -i
 
 
 # 1. Github and remotes

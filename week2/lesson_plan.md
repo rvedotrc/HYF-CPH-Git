@@ -38,6 +38,7 @@ In any of the cases, the goal of the class is for the students to be able to use
    - git reset soft vs. hard
    - git revert
    - git cherry-pick
+   - git rebase -i HEAD~N
 
 8. Exercise to create commit use reset soft, and then create another commit use reset hard.
 
@@ -49,3 +50,7 @@ In any of the cases, the goal of the class is for the students to be able to use
     - git rm --cached
     - git commit --amend
     - show how to check that local branch is up to date with origin (with git log)
+
+11. How to write a good commit message.
+
+12. How to create a good, easy to understand PR.
