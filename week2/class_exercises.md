@@ -30,7 +30,10 @@ The goal of this exercise is to learn how to get rid of a particular commit, tha
 
  1. clone the repo: https://github.com/martamatos/cherry_pick_exercise.git
  2. in the branch add_fruits, get rid of the commit "added beetroots file". Hint: you need to create a new branch and use cherry-pick.
- 3. in the branch add_veggies, get rid of the commit "added apples". Hint: you need to create a new branch and use cherry-pick. (This one will lead to a conflict).
+ 3. in the branch add_veggies, get rid of the commit "added apples". 
+ Hint: You can either use one of the following approaches:
+ - create a new branch and use cherry-pick. (This one will lead to a conflict).
+ - use interactive rebasing on the branch. (This one will lead to a conflict).
 
 
 Note: use git log --all --oneline to see all commits in all branches (the --oneline part is only to see a shorter version of the log).

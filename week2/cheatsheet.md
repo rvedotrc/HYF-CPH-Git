@@ -34,6 +34,7 @@ Some mixed commands:
  - `git log --oneline` - shows the history of commits in a summarized form.
  - `git rm --cached <file_name>` - removes the file with name `<file_name>` from your git repo, so it won't be tracked by git anymore, but the file stays in your computer, it is not deleted.
  - `git cherry-pick <commit_hash>` - will copy the commit with hash `<commit_hash`> from another branch to your current branch. To find the hash for the commit you want use `git log` on the branch where the commit exists.
+ - `git rebase -i HEAD~<N>` - will rebase the last `<N>` commits. It will allow you to drop/remove a commit from the middle or change the content of a commit from the past.
 
 
 Commands for stashing:
