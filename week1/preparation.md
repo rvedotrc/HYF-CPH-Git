@@ -40,3 +40,9 @@ Git:
 
 
 We'll be roughly following the materials here, in case you want to take a look:  https://github.com/HackYourFuture-CPH/Git/blob/main/week1/review.md
+
+
+
+# ## Flipped classroom material
+
+Check the flipped classroom material [here](/week1/preparation_flipped_classroom.md)
