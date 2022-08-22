@@ -66,3 +66,12 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
          e) merge with master
          f) update local master
       - do an exercise where the students do parts a) to d)
+
+## Other material and links
+
+Here you can find all the materials used to teach the first Git class ✨:
+ 
+ - **[Review](review.md)** - contains a short review over the materials taught in class;
+ - **[Cheatsheet](cheatsheet.md)** - contains a cheatsheet with the commands used during the class (and a few extra);
+ - **[Resources](resources.md)** - contains some resources about Git that might be useful;
+ - **[Git Basics](Git_basics.pdf)** - the slides used to teach some concepts during class.
