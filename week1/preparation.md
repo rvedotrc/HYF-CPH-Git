@@ -43,6 +43,6 @@ We'll be roughly following the materials here, in case you want to take a look: 
 
 
 
-# ## Flipped classroom material
+# Flipped classroom material
 
 Check the flipped classroom material [here](/week1/preparation_flipped_classroom.md)
