@@ -4,7 +4,7 @@ The main goal of this class is to become comfortable with branches, merge confli
 
 | Week | Topic | Preparation | Lesson Plan | Homework |
 | ---- | ----- | ---- |----------|--------|
-| 1. | ** Git Week02**  <br>  Advanced Git and Preparation for the Final Project. | [Preparation](/preparation.md) | [Lesson Plan](/lesson-plan.md) | [Homework](/homework.md) |
+| 1. | **Git Week02**  <br>  Advanced Git and Preparation for the Final Project. | [Preparation](/week2/preparation.md) | [Lesson Plan](/week2/lesson-plan.md) | [Homework](/week2/homework.md) |
 
  - **[Preparation Flipped Classrom](preparation_flipped_classroom.md)** - contains what the students should do before coming to class with Flipped Class room setting
 
