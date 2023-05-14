@@ -15,7 +15,7 @@ In any of the cases, the goal of the class is for the students to be able to use
 
 4. Create a merge conflict and show how to solve it (use vscode to select which changes to keep).
 
-5. Do an exercise (to basically repeat what was showed before with the slides and all):
+5. Do an exercise (to basically repeat what was shown before with the slides and all):
    1. create repo `class_example`, both locally and on github
    2. in master, create file `fruits.txt`, add the names of 3 fruits, one per line, Commit your changes.
    3. push `master` to github
