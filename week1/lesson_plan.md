@@ -51,8 +51,8 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
      - slide 17
      
  13. Do a little exercise where the students:
-     - have them clone their own `hyf-homework` into their computer (this is to get everyone on the same page, otherwise it is a mess)
-     - create a folder named `class_playground` under `hyf-homework/Git/week1`
+     - have them clone their class homweork repo into their computer (this is to get everyone on the same page, otherwise it is a mess)
+     - create a folder named `class_playground` under `git/week1`
      - add some files
      - commit the changes
      - push current changes
@@ -63,8 +63,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
          b) do commits
          c) push to github
          d) create pull request
-         e) merge with master
-         f) update local master
+         e) update local master
       - do an exercise where the students do parts a) to d)
 
 ## Other material and links
