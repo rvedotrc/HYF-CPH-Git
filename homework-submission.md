@@ -32,6 +32,7 @@
 <br/>
 
 3. Checkout to your new homework branch, following the branch naming convention of `module-week/yourname`. If `week` is not applicable, it is obviously just `module/yourname`.
+   See [allowed branch name prefixes](#allowed-branch-name-prefixes).
 
 <br/>
 ❗
@@ -45,9 +46,29 @@ Always firstly checkout to the new homework branch from an updated `main`. Alway
 
 <br/>
 
-### The branches:
+### Allowed branch name prefixes:
 
-> html-css <br/> git-week1 git-week2 <br/>javascript1-week1 javascript1-week2 javascript1-week3 javascript1-week4 <br/> javascript2-week1 javascript2-week2 javascript2-week3 <br/> javascript3-week1 javascript3-week2 javascript3-week3 <br/> typescript <br/> databases-week1 databases-week2 databases-week3 <br/> node-week1 node-week2 node-week3 <br/> react1-week1 react1-week2 react1-week3 <br/> react2-week1 react2-week2 react2-week3
+|                   |                   |                   |                   |     |
+| ----------------- | ----------------- | ----------------- | ----------------- | --- |
+| git-week1         | git-week2         |                   |                   |     |
+| javascript1-week1 | javascript1-week2 | javascript1-week3 | javascript1-week4 |
+| javascript2-week1 | javascript2-week2 | javascript2-week3 |                   |
+| javascript3-week1 | javascript3-week2 | javascript3-week3 |                   |
+| typescript        |                   |                   |                   |     |
+| databases-week1   | databases-week2   | databases-week3   |                   |     |
+| node-week1        | node-week2        | node-week3        |                   |     |
+| react1-week1      | react1-week2      | react1-week3      |                   |     |
+| react2-week1      | react2-week2      | react2-week3      |                   |     |
+
+### Examples
+
+> ❌ git/weeek1/maria <br/>
+> ❌ javascript1/maria <br/>
+> ❌ git-week2 <br/>
+> ❌ node-week1-homework <br/>
+> ❌ react2-week4/maria <br/>
+> ❌ react1week1/maria <br/>
+> ✅ javascript1-week3/maria
 
 <br/>
 
