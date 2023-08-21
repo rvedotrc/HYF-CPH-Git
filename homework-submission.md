@@ -3,7 +3,7 @@
 ## Before you start your homework
 
 1. You are probably opening the local repo on the last weeks branch - make sure that any changes you have there are either committed and pushed, or stashed, or discarded - whatever you prefer. The point is to be mindful that:
-   <br/> - you are most probably starting on a branch you alst worked with, that is how VS Code works,
+   <br/> - you are most probably starting on a branch you last worked with, that is how VS Code works,
    <br/> - and there might be changes that you have not handled last time.
 
 <br/>
