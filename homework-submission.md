@@ -90,6 +90,10 @@ Always firstly checkout to the new homework branch from an updated `main`. Alway
 
 <br/>
 
+5. Post the link to the PR to your class channel and celebrate with your classmates! 🎉 💃🏽 🕺🏾 🥳
+
+<br/>
+
 ## After submitting your homework
 
 1. Follow the PR to see the review (if you submitted it on time) and interact with the reviewer as well as make the suggested changes.
