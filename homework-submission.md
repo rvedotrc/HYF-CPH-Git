@@ -100,7 +100,7 @@ Always firstly checkout to the new homework branch from an updated `main`. Alway
 
 <br/>
 
-2. If you have made changes to the code since the homework submission, push the changes and close the PR`*`.
+2. If you have made changes to the code since the homework submission and review, push the changes and close the PR`*`.
 
 <br/>
 <br/>
