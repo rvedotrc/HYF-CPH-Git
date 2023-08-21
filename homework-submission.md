@@ -1,5 +1,24 @@
 # HOMEWORK SUBMISSION
 
+## TL;DR
+
+- [ ] start any coding session from `main`.
+- [ ] periodically keep your local `main` up to date with changes in the remote `main`.
+- [ ] periodically merge the up-to-date local `main` into your homework branch.
+- [ ] always checkout to a new homework branch from `main`.
+- [ ] did we mention `main`?
+- [ ] implement the homework in the right folder.
+- [ ] write meaningful commit messages.
+- [ ] before pushing, double check that your branch name is correct.
+- [ ] if the branch name is not correct, you can checkout to a new, correct branch from the current branch - you will carry all the commits with you.
+- [ ] if your PR has been auto-closed, do not reopen it. Follow the guidlines and make a proper PR.
+- [ ] stay patient. Slack, Google and ChatGPT are your best friends now.
+
+ <br/>
+
+<hr>
+<hr>
+
 ## Before you start your homework
 
 1. You are probably opening the local repo on the last weeks branch - make sure that any changes you have there are either committed and pushed, or stashed, or discarded - whatever you prefer. The point is to be mindful that:
@@ -17,7 +36,7 @@
 <br/>
 ❗
 
-If you name the branch incorrectly, your PR might get automatically closed (soon after opening), depending on the configurations that are set up at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch.
+If you name the branch incorrectly, your PR might get automatically closed (soon after opening), depending on the configurations that are set up at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch. **Do not reopen the closed PR**.
 
 <br/>
 ❗❗❗
