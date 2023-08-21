@@ -17,7 +17,7 @@
 <br/>
 ❗
 
-If you name the branch incorrectly, your PR might gt automatically closed (soon after opening), depending on the configurations that are setup at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch.
+If you name the branch incorrectly, your PR might get automatically closed (soon after opening), depending on the configurations that are set up at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch.
 
 <br/>
 ❗❗❗
@@ -52,7 +52,7 @@ Always firstly checkout to the new homework branch from an updated `main`. Alway
 
 ## After submitting your homework
 
-1. Follow the PR to see the review (if you submitted on time) and interact with the reviewer as well as make the suggested changes.
+1. Follow the PR to see the review (if you submitted it on time) and interact with the reviewer as well as make the suggested changes.
 
 <br/>
 
