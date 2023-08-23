@@ -25,7 +25,7 @@ You will use the your class homework repository on your computer to do the exerc
 ## Exercise 2
 
 You have hopefully recieved a review on your last week html-css homework.
-If you submitted it later into the week, you might not have a review yet, in that case, please reach out in `#need-a-review`.
+If you submitted it later into the week, you might not have a review yet, in that case - wait. Be faster next time :). 
 If you submitted the homework too late, you are not entitled to a review, but you can still try and ask for one.
 
 1. go to your local copy of the class homework repo, `main` branch;
