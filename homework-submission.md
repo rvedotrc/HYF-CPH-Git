@@ -36,14 +36,10 @@
    See [allowed branch name prefixes](#allowed-branch-name-prefixes).
 
 <br/>
-❗
-
-If you name the branch incorrectly, your PR might get automatically closed (soon after opening), depending on the configurations that are set up at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch. **Do not reopen the closed PR**.
+❗ If you name the branch incorrectly, your PR might get automatically closed (soon after opening), depending on the configurations that are set up at that moment in your homework repo. It is your responsibility to monitor it and, if needed, open a new PR from a new correctly-named branch. **Do not reopen the closed PR**.
 
 <br/>
-❗❗❗
-
-Always firstly checkout to the new homework branch from an updated `main`. Always.
+❗ Always firstly checkout to the new homework branch from an updated `main`. Always.
 
 <br/>
 
