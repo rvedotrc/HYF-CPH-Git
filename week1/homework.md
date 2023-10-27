@@ -11,7 +11,7 @@ You will use the your class homework repository on your computer to do the exerc
 1. Go to your class homework repo on your computer (you would have already cloned it in preparation or in class exercises)
 2. Go to branch `main`
 3. Pull the latest changes to make sure your local `main` is up to date
-4. Create a branch for your homework, named `git-week1`, and move to that branch
+4. Create a branch for your homework, named `git-week1/yourname`, and move to that branch
 5. Inside the folder `git/week1` create 3 new files:
    - a file named `my_favorite_food.txt`, inside the file write your favorite food recipe (you can just find a random recipe on google and paste it in the file ;)
    - a file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food
@@ -20,12 +20,12 @@ You will use the your class homework repository on your computer to do the exerc
 7. Add and commit the file `my_second_favorite_food.txt`;
 8. Add and commit the file `countries.txt`;
 9. Push your changes into your class homework repository on Github.
-10. Go to Github and create a pull request (PR) from the branch `git-week1` to `main`
+10. Go to Github and create a pull request (PR) from the branch `git-week1/yourname` to `main`
 
 ## Exercise 2
 
 You have hopefully recieved a review on your last week html-css homework.
-If you submitted it later into the week, you might not have a review yet, in that case, please reach out in `#need-a-review`.
+If you submitted it later into the week, you might not have a review yet, in that case - wait. Be faster next time :). 
 If you submitted the homework too late, you are not entitled to a review, but you can still try and ask for one.
 
 1. go to your local copy of the class homework repo, `main` branch;
